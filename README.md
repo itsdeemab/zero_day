@@ -48,3 +48,8 @@ an open-source tool for building and managing virtual development environments. 
     * `$ vagrant init ubuntu/focal64` -> it will generate a Vagrantfile with `base = "ubuntu/focal64"` - you don’t have to execute this command line everyday, only once, to create a new virtual machine
     * `$ vagrant up` -> it will start your virtual machine
     * `$ vagrant ssh` -> now you are inside your virtual machine.
+
+## Feedback
+
+If you have any feedback, please reach out to me at hello@itsdeemab.com
+
